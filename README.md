@@ -2,6 +2,11 @@
 
 Standalone website solution built for displaying rankings of various institutions.
 
+**This repository has been archived.**
+
+**Maintained forks:**
+* https://github.com/sinergiaanimal/institution-ranking
+
 
 # Functionalities
 
